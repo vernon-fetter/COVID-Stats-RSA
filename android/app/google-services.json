@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "975834551928",
+    "firebase_url": "https://rsa-covid-19-stats.firebaseio.com",
+    "project_id": "rsa-covid-19-stats",
+    "storage_bucket": "rsa-covid-19-stats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975834551928:android:141dd6a0e0fcf2dd427f8d",
+        "android_client_info": {
+          "package_name": "com.example.covid_stats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975834551928-27235ukr76snecips9v02fc618kadqbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTG7LSVv3iM6x6tAEY9faVZiWG-q0b3BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975834551928-27235ukr76snecips9v02fc618kadqbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7128717115913779~3878582098"
+    }
+  ],
+  "configuration_version": "1"
+}
